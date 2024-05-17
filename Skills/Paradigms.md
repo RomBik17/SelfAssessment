@@ -1,50 +1,50 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
-  - Functional programming
+  - Procedural programming: 🖐️ used
+  - Imperative programming: 🖐️ used
+  - Structured programming: 🖐️ used
+  - Non-structured programming: 🖐️ used
+  - Functional programming: 🖐️ used
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 🖐️ used
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming
-  - Parallel programming
+  - Asynchronous programming: 🖐️ used
+  - Parallel programming: 🖐️ used
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
-  - Metaprogramming
+  - Multi-paradigm programming: 🖐️ used
+  - Metaprogramming: 🖐️ used
   - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
   - Aspect-oriented programming
   - Anemic domain model
-  - Class composition
+  - Class composition: 🖐️ used
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
-  - Hidden class
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🖐️ used
+  - Hidden class: 🖐️ used
   - Object form
-  - Instance
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
@@ -58,34 +58,34 @@
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP)
-  - Open–closed principle (OCP)
-  - Liskov substitution principle (LSP)
-  - Interface segregation principle (ISP)
-  - Dependency inversion principle (DIP)
+  - Single-responsibility principle (SRP): 🖐️ used
+  - Open–closed principle (OCP): 🖐️ used
+  - Liskov substitution principle (LSP): 🖐️ used
+  - Interface segregation principle (ISP): 🖐️ used
+  - Dependency inversion principle (DIP): 🖐️ used
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton: 🖐️ used
+  - Factory Method: 🖐️ used
+  - Abstract Factory: 🖐️ used
   - Adapter
-  - Observer
-  - Strategy
-  - Facade
-  - Proxy
-  - Chain of Responsibility
-  - Command
+  - Observer: 🖐️ used
+  - Strategy: 🖐️ used
+  - Facade: 🎓 known
+  - Proxy: 🎓 known
+  - Chain of Responsibility: 🖐️ used
+  - Command: 🖐️ used
   - Iterator
-  - State
-  - Bridge
-  - Builder
-  - Prototype
+  - State: 🖐️ used
+  - Bridge: 🎓 known
+  - Builder: 🖐️ used
+  - Prototype: 🖐️ used
   - Composite
-  - Decorator
+  - Decorator: 🎓 known
   - Flyweight
   - Mediator
   - Memento
   - Template Method
-  - Visitor
+  - Visitor: 🖐️ used
   - Reactor
   - Active object
   - Delegation

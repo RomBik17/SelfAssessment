@@ -4,42 +4,42 @@
   - Event loop
   - `try..catch`
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O: 🎓 known
+  - Thread pool: 🔬 researched
   - Pattern Reactor
   - CAS operations
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv
-  - Race conditions
-  - Dead locks
+  - libuv: 🔬 researched
+  - Race conditions: 🔬 researched
+  - Dead locks: 🔬 researched
   - Live locks
-  - Concurrent programming
-  - Parallel programming
+  - Concurrent programming: 🔬 researched
+  - Parallel programming: 🔬 researched
   - Actor Model
-  - Thread
-  - Process
+  - Thread: 🔬 researched
+  - Process: 🔬 researched
 - Async contracts
-  - Callbacks
+  - Callbacks: 🎓 known
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await: 🎓 known
   - Future
   - Deferred
-  - Sync generator
+  - Sync generator: 🎓 known
   - Async Generator
   - Async Iterator
-  - Event
-  - Coroutine
-  - Goroutine
+  - Event: 🖐️ used
+  - Coroutine: 🎓 known
+  - Goroutine: 🎓 known
   - Signal
-  - Stream
+  - Stream: 🔬 researched
   - Chain of responsibility
   - Middleware
-  - Locks
+  - Locks: 🔬 researched
 - Async adapters and utils
   - callbackify
   - promisify
@@ -52,12 +52,12 @@
   - Readable
   - Writable
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool: 🔬 researched
+  - Async Queue: 🔬 researched
   - Async Collector
-  - Semaphore
-  - Mutex
-  - Spin Lock
+  - Semaphore: 🔬 researched
+  - Mutex: 🔬 researched
+  - Spin Lock: 🔬 researched
 - JavaScript & Node.js specific
   - Timers
   - `setImmediate`
@@ -66,7 +66,7 @@
   - AbortSignal
   - Promise unhandled rejection
   - Promise double resolve
-  - Atomics
+  - Atomics: 🔬 researched
   - High resolution clock
   - Callback hell
   - Promise hell
@@ -74,7 +74,7 @@
   - Error handling in async code
   - Better stack traces with return await
   - JSON streaming serialization
-  - AsyncLocalStorage
+  - AsyncLocalStorage: 🔬 researched
   - AsyncResource
 - Techniques
   - Async.js library
