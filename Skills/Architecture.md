@@ -1,19 +1,19 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
-  - GoF patterns
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
+  - GoF patterns: 👂 heard
   - CQS
   - Leaking abstractions
   - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Contract programming: 👂 heard
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
   - Code coverage
   - Cohesion
   - Coupling
@@ -33,7 +33,7 @@
   - Metaprogramming
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture: 🖐️ used
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless: 👂 heard
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -72,27 +72,27 @@
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
-  - No-code
+  - Low-code: 👂 heard
+  - No-code: 🖐️ used
   - Metric
   - Metric abuse
-  - ACID
+  - ACID: 👂 heard
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
-  - Integration with subsystems
-  - Enterprise vision
+  - Understanding business needs: 🖐️ used
+  - Enterprise strategy: 🖐️ used
+  - Integration with subsystems: 🖐️ used
+  - Enterprise vision: 🖐️ used
   - Enterprise capabilities
-  - Project scope
+  - Project scope: 🖐️ used
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
-  - Business Intelligence
+  - Business Intelligence: 👂 heard
   - OLAP
   - OLTP
   - Conways Law
